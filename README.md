@@ -170,3 +170,12 @@ Telecom companies typically identify at-risk customers only after they've alread
 - New customers (low tenure): Highest churn risk
 - Long-term customers: Most loyal segment
 - Tenure shows strong inverse relationship with churn
+## 🚀 How to Run the Model
+
+
+
+###  Run the Model in Google Colab (Recommended for Quick Start)
+
+### Step 1: Upload notebook to Google Colab
+### Step 2: Upload dataset.csv to Colab environment
+### Step 3: Run all cells
